@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I am a 16 years old italian boy who wants to do the impossible.<br><br>I'm working on:<br>- A Cellular Automata<br>-A QR code generator<br>-A computer<br>- Many more...
+I am a 16 years old italian boy who wants to do the impossible.<br><br>I'm working on:<br>- A Cellular Automata<br>-A QR code generator<br>-A computer<br>-Chess game<br>- Many more...
 
 
 ## 🌐 Socials:
